@@ -1,0 +1,6 @@
+ignore:
+  - "test"
+  - ".local/**/*"
+
+comment:
+  require_changes: true
